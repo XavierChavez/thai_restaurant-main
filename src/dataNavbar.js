@@ -15,7 +15,7 @@ export const links = [
   },
   {
     id: 3,
-    url: '#Menu',
+    url: 'https://compassionate-elion-3e972b.netlify.app/',
     text: 'Menu',
   },
   {
